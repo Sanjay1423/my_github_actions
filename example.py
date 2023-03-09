@@ -1,5 +1,5 @@
 for i in range(1,10):
-          print(i)
+    print(i)
     
     
 def sum(num1,num2):
